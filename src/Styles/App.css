@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    color: aliceblue;
+    width: 100%;
+}
+
+.title {
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+}
+
+.getHM {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.displayBmi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn-calc {
+    justify-content: center;
+    margin: auto;
+    font-size: 25px;
+    box-shadow: none;
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+    width: 300px;
+}

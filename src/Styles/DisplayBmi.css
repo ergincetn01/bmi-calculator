@@ -1,0 +1,33 @@
+.bmi-result {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  background-color: black;
+  margin-top: 10px;
+  border-radius: 6px;
+  text-align: center;
+  width: 600px;
+}
+p {
+    font-size: large;
+}
+.rst {
+  margin: auto;
+  justify-content: center;
+  background-color: red;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: large;
+  border-radius: 50%;
+}
+
+.resNotShown {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+}
